@@ -1,0 +1,27 @@
+{
+  "name": "typescript_mock",
+  "version": "1.0.0",
+  "description": "A simple TypeScript mock project to understand TypeScript capabilities",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc index.ts --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ATrogolo/TypeScriptMock.git"
+  },
+  "keywords": [
+    "typescript",
+    "mock"
+  ],
+  "author": "Andrea Trogolo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ATrogolo/TypeScriptMock/issues"
+  },
+  "homepage": "https://github.com/ATrogolo/TypeScriptMock#readme",
+  "devDependencies": {
+    "typescript": "^2.9.2"
+  }
+}
